@@ -1,0 +1,8 @@
+pandas
+emoji>=2
+better-profanity
+textblob
+numpy
+matplotlib
+wordcloud
+seaborn
